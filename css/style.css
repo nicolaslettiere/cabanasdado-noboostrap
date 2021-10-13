@@ -131,7 +131,8 @@ table{
     padding-bottom: 400px;
   }
   #images div{
-    width: 55%;
+	float: none;  
+    width: 50%;
     margin: auto;
   }
 
