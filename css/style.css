@@ -118,7 +118,7 @@ table{
  }
 
 
-@media (max-width: 769px) {
+@media (max-width: 900px) {
   .resume{
     display: none;
   }
@@ -131,7 +131,7 @@ table{
     padding-bottom: 400px;
   }
   #images div{
-	float: none;  
+    padding: 10px;
     width: 50%;
     margin: auto;
   }
