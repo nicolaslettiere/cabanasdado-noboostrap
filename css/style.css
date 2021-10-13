@@ -127,13 +127,7 @@ table{
   }
   
   #images{
-    padding-bottom: 1400px;
-  }
-
-  #images div{
-    width: auto;
-    float: none;
-    margin: auto;
+    padding-bottom: 1000px;
   }
 
   iframe{
