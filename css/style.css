@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 
-@media (max-width: 768px){
+@media (min-width: 768px){
   .resume{
     display: none;
   }
