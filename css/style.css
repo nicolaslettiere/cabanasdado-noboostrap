@@ -130,12 +130,13 @@ table{
     padding-bottom: 400px;
   }
   #images div{
+    padding-top: 50px;
     width: 50%;
     margin: auto;
   }
 
   #ubicacion{
-    padding-top: 0;
+    padding-top: 10px;
   }
   iframe{
     width: 300px;
