@@ -127,9 +127,16 @@ table{
   }
   
   #images{
-    padding-bottom: 1400px;
+    padding-bottom: 400px;
+  }
+  #images div{
+    width: 50%;
+    margin: auto;
   }
 
+  #ubicacion{
+    padding-top: 0;
+  }
   iframe{
     width: 300px;
     height: 200px;
