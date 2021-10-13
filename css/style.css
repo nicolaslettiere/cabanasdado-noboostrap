@@ -130,6 +130,10 @@ table{
     padding-bottom: 1400px;
   }
 
+  #images div{
+    margin: auto;
+  }
+
   iframe{
     width: 300px;
     height: 200px;
