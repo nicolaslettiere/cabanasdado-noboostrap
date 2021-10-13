@@ -131,6 +131,7 @@ table{
   }
 
   #images div{
+    width: auto;
     float: none;
     margin: auto;
   }
