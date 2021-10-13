@@ -127,16 +127,16 @@ table{
   }
   
   #images{
+    padding-top: 50px;
     padding-bottom: 400px;
   }
   #images div{
-    padding-top: 50px;
     width: 50%;
     margin: auto;
   }
 
   #ubicacion{
-    padding-top: 10px;
+    padding-top: 50px;
   }
   iframe{
     width: 300px;
