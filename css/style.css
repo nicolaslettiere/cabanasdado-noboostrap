@@ -56,8 +56,13 @@ body{
   color: #F9813A;
 }
 
-table{
-  width: 100%;
+#navbar a {
+  float: left;
+  display: block;
+  color: #FCF1F1;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
 }
 
 #top-container{
@@ -125,6 +130,10 @@ table{
   }
   .title{
     width: 50%;
+  }
+
+  body{
+    font-size: medium;
   }
 
   #images{
