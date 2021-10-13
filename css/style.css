@@ -118,7 +118,7 @@ table{
  }
 
 
-@media (max-width: 900px) {
+@media (max-width: 786px) {
   .resume{
     display: none;
   }
@@ -131,9 +131,10 @@ table{
     padding-top: 500px;
   }
 
-  #image div{
-    width: 100%;
-    margin: auto;
+  .image1{
+    display: block;
+    margin: 10px auto;
+    width: 50%;
   }
 
   iframe{
