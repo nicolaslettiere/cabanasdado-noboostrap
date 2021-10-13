@@ -131,7 +131,7 @@ table{
   }
 
   #images div{
-    margin: auto;
+    margin: auto 50%;
   }
 
   iframe{
